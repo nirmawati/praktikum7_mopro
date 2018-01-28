@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/context_hapus"
+        android:title="hapus" />
+    <item
+        android:id="@+id/context_ubah"
+        android:title="ubah" />
+
+</menu>
